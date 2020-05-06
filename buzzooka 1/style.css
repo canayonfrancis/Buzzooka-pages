@@ -1,0 +1,144 @@
+body {
+  background: white;
+}
+
+
+.icons  {
+  display: inline-flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-right: 48px;
+  cursor: pointer;
+
+}
+
+.icons .fa-facebook-f {
+  margin-right: 15px;
+}
+
+.icons .fa-facebook-f:hover {
+  margin-bottom: 3px;
+  filter: drop-shadow(3px 2px 1px #2d2e2fd9);
+}
+
+.icons .fa-twitter {
+  margin-right: 15px;
+}
+
+.icons .fa-twitter:hover {
+  margin-bottom: 3px;
+  filter: drop-shadow(3px 2px 1px #2d2e2fd9);
+}
+
+.icons .fa-instagram {
+  margin-right: 15px;
+}
+
+.icons .fa-instagram:hover {
+  margin-bottom: 3px;
+  filter: drop-shadow(3px 2px 1px #2d2e2fd9);
+}
+
+.icons .fa-youtube:hover {
+  margin-bottom: 3px;
+  filter: drop-shadow(3px 2px 1px #2d2e2fd9);
+}
+
+.box {
+  text-align: center;
+  justify-content: center;
+  box-shadow: 0px 0px 10px 2px grey;
+}
+
+.leftside {
+  background: #1c419a;
+  background-size: cover;
+  color: white;
+  height: 75vh;
+  width: 30%;
+}
+
+.leftside h3 {
+  margin-top: 20px;
+}
+
+.img img {
+  margin-top: 80px;
+  width: 215px;
+  height: 214px;
+}
+
+.one img {
+  margin-top: 50px;
+  width: 215px;
+  height: 214px;
+}
+
+.rightside {
+  background: #ffffff;
+  height: 75vh;
+  width: 70%;
+}
+
+.input-group-text {
+  align-items: center;
+}
+
+form {
+  text-align: left;
+  margin: 0 50px;
+}
+
+.breadcrumb-a {
+  background: #ffffff;
+}
+
+.form-group img {
+  margin-right: 15px;
+}
+
+.form-one {
+  margin-bottom: 50px;
+}
+
+.form-one input {
+  margin-left: 30px;
+}
+
+.form-one a {
+  color: white;
+}
+
+
+.form-two {
+  margin-bottom: 50px;
+}
+
+.form-two input {
+  margin-left: 30px;
+}
+
+.form-three {
+  margin-bottom: 50px;
+}
+
+.form-three input {
+  margin-left: 30px;
+}
+
+.btn a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.footer {
+  margin-top: 20px;
+}
+
+.crm-footer {
+  text-align: right;
+}
+
+ .input-group h5  {
+  color: black;
+}
