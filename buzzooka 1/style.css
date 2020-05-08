@@ -237,3 +237,36 @@ form {
 .input-group {
   border: 1px solid #e4e4e4;
 }
+
+.last-cfm-a h2 {
+  text-align: left;
+  margin-top: 70px;
+}
+
+.last-cfm-a p {
+  text-align: left;
+  margin-top: 44px;
+}
+
+.last-cfm-a input {
+  width: 470px;
+  height: 40px;
+  border: none;
+  font-size: 28px;
+  align-items: left;
+}
+
+.last-cfm-b {
+  border: none;
+  background-color: #f9f9f9;
+}
+
+.last-cfm-b p {
+  margin-top: 10px;
+  font-size: 16px;
+
+}
+
+.btn-b span {
+  margin: 0 20px;
+}
