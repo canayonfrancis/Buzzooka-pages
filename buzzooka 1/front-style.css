@@ -1,0 +1,52 @@
+body {
+  background: linear-gradient(100deg, #23A6D5, #293f70);
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.logo {
+  cursor: pointer;
+}
+
+.lrm button {
+  border-radius: 20px;
+  border-width: 1.5px;
+}
+
+.lrm button:hover {
+  background-color: #293f70a6;
+}
+
+.lrm span {
+  margin: 0px 20px;
+  color: #ffffff;
+}
+
+.content h1 {
+  color: #ffffff;
+  font-size: 60px;
+  margin-top: 150px;
+}
+
+.content p {
+  color: white;
+  margin: 20px 30px;
+}
+
+.container span {
+  margin: 0 60px;
+  font-size: 20px;
+}
+
+.container button {
+  border-radius: 30px;
+}
+
+.icon i {
+  margin-right: 25px;
+  margin-top: 80px;
+  color: white;
+  cursor: pointer;
+}
