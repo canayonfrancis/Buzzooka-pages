@@ -11,6 +11,11 @@ body {
   font-size: 17px;
 }
 
+.container-a span {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
 .container-zero h5 {
   font-size: 17px;
 }
@@ -33,7 +38,6 @@ body {
 }
 
 .icons .fa-facebook-f:hover {
-  margin-bottom: 3px;
   filter: drop-shadow(3px 2px 1px #2d2e2fd9);
 }
 
@@ -42,7 +46,6 @@ body {
 }
 
 .icons .fa-twitter:hover {
-  margin-bottom: 3px;
   filter: drop-shadow(3px 2px 1px #2d2e2fd9);
 }
 
@@ -51,12 +54,10 @@ body {
 }
 
 .icons .fa-instagram:hover {
-  margin-bottom: 3px;
   filter: drop-shadow(3px 2px 1px #2d2e2fd9);
 }
 
 .icons .fa-youtube:hover {
-  margin-bottom: 3px;
   filter: drop-shadow(3px 2px 1px #2d2e2fd9);
 }
 
@@ -68,6 +69,10 @@ body {
 
 .box-margin {
   margin-top: 30px;
+}
+
+.main-title-a span {
+  color: black;
 }
 
 .leftside {
@@ -119,7 +124,6 @@ form {
 }
 
 .form-two {
-  margin-left: 15px;
   text-align: left;
 }
 
@@ -131,8 +135,16 @@ form {
   font-family: 'Poppins', sans-serif;
 }
 
+.form-one label, .form-two label, .form-three label {
+  font-size: 20px;
+}
+
 .form-one p {
   margin-left: 38px;
+}
+
+.title-a label {
+  font-size: 20px;
 }
 
 .breadcrumb-a {
@@ -155,6 +167,10 @@ form {
   color: white;
 }
 
+.form-one span, .form-two span, .form-three span {
+  color: red;
+}
+
 
 .form-two {
   margin-bottom: 50px;
@@ -166,6 +182,22 @@ form {
 
 .form-three {
   margin-bottom: 50px;
+}
+
+.form-three input {
+  margin-left: 30px;
+}
+
+.input-one {
+  font-size: 20px;
+}
+
+.input-one span {
+  color: red;
+}
+
+.input-one-a {
+  margin-left: 30px;
 }
 
 .btn a {
